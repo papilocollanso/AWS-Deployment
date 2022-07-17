@@ -1,3 +1,5 @@
+# External Api > http://a1ec22e113f9e4053ae541ca0faea5b0-620058169.us-east-2.elb.amazonaws.com:80
+
 # Deploying a Flask API
 
 This is the project starter repo for the course Server Deployment, Containerization, and Testing.
